@@ -1,6 +1,9 @@
 # Machine Learning - Introduction for Enterprise
 ## Image Classifier Project
 
+### Find the full report here
+https://github.com/ali-h2010/Image_Classifier_Project_Udacity_2020_ML/blob/master/Image%20Classifier%20Project.ipynb
+
 ### Developing an Image Classifier with Deep Learning
 In this first part of the project, you'll work through a Jupyter notebook to implement an image classifier with PyTorch. We'll provide some tips and guide you, but for the most part the code is left up to you. As you work through this project, please refer to the rubric for guidance towards a successful submission.
 
